@@ -766,6 +766,10 @@ img {
     margin-bottom: 24px;
 }
 
+.modal-link {
+    margin-left: 2px;
+}
+
 .modal-submit-btn {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
